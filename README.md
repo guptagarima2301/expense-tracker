@@ -46,5 +46,5 @@ It helps users track their **income and expenses**, view a **personalized dashbo
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/expense-tracker-mern.git
+https://github.com/guptagarima2301/expense-tracker.git
 cd expense-tracker-mern
